@@ -1,0 +1,14 @@
+{
+  "name": "jkr-fleet-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
